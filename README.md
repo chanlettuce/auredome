@@ -7,7 +7,9 @@
 ## 事前にダウンロードしておくもの
 
 .NET 5.0 ランタイム  
-https://dotnet.microsoft.com/en-us/download/dotnet/5.0
+https://dotnet.microsoft.com/en-us/download/dotnet/5.0  
+![image](https://user-images.githubusercontent.com/37320700/153753537-5daa2a66-f2bc-459d-80f1-5a1ba06e1fe4.png)
+
 
 Among Us Capture  
 https://capture.automute.us/
