@@ -6,6 +6,9 @@
 
 ## 事前にダウンロードしておくもの
 
+.NET 5.0 ランタイム
+https://dotnet.microsoft.com/en-us/download/dotnet/5.0
+
 Among Us Capture  
 https://capture.automute.us/
 
